@@ -45,7 +45,6 @@ chat_system/
 
 ## 🚦 How to Run the Project
 
-1️⃣ **Clone the repository:**
 ```bash
 git clone https://github.com/shadow4adept/complex-chat
 cd complex-chat
